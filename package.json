@@ -1,0 +1,8 @@
+{
+  "name": "super-trunfo-em-c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alexandrekpr/super-trunfo-em-c.git",
+  "author": "Alexandre <alexandrekpr@gmail.com>",
+  "license": "MIT"
+}
