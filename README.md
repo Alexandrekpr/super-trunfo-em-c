@@ -1,4 +1,4 @@
-# Super Trunfo em C - Nível Mestre
+# Super Trunfo em C - Desafio de Programação
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
